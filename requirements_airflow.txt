@@ -1,0 +1,4 @@
+# Airflow virtual environment — install in a dedicated venv (separate from TFX).
+# Python 3.9+ is recommended.
+
+apache-airflow==2.7.3

@@ -1,0 +1,11 @@
+# TFX virtual environment — install in a dedicated venv (separate from Airflow).
+# These versions were tested together; adjust as needed for your Python version.
+# Python 3.9 is recommended for this combination.
+
+tensorflow==2.11.0
+tensorflow-extended==1.11.0
+tensorflow-transform==1.11.0
+tensorflow-data-validation==1.11.0
+tensorflow-model-analysis==0.43.0
+keras-tuner>=1.3.0,<2.0.0
+pandas>=1.5.0,<2.0.0
